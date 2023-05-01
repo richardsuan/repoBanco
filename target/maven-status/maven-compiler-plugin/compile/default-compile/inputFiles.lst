@@ -1,0 +1,11 @@
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/model/user.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/repository/user_rep.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/services/user_servi.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/service/impl/tarjetaRest.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/services/tarjeta_servi.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/dto/dotTarjeta.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/repository/tarjeta_rep.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/model/tarjeta.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/LibreriabackendApplication.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/dto/dotuser.java
+/home/richardandersonsuanyara/Documentos/spring_1/src/main/java/com/credibanco/assessment/library/service/impl/userRest.java
